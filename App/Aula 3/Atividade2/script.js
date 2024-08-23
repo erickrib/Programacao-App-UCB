@@ -1,21 +1,21 @@
-var nome = 'Leozin'
+var nome = 'Erick'
 
-// if (nome === 'Leozin') {
-//     var profissao = 'Garoto de programa'
+// if (nome === 'Erick') {
+//     var profissao = 'CEO'
 //     console.log(profissao)
 // }
 
-// if (nome === "Leozin") {
-//     let cargo = 'Super Garoto de programa'
+// if (nome === "Erick") {
+//     let cargo = 'Desenvolvedor'
 //     console.log(cargo)
 // }
 
-// if (nome === 'Leozin') {
-//     const status = 'Deu merda, legal'
+// if (nome === 'Erick') {
+//     const status = 'Deu, erro'
 //     console.log(status)
 // }
 
-const status = 'Deu merda, legal'
-let status2 = 'Legal'
+const status = 'Deu, erro'
+let status2 = 'Sucesso'
 var status3 = 'Legal'
 
