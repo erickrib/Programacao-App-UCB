@@ -1,16 +1,16 @@
 // let user = [
-//     {nome: 'Leozin', idade: 21, cargo: 'Estudante'},
-//     {nome: 'Nina', idade: 22, cargo: 'Estudante'},
+//     {nome: 'Erick', idade: 21, cargo: 'Estudante'},
+//     {nome: 'Pedro', idade: 22, cargo: 'Estudante'},
 //     {nome: 'Victor', idade: 21, cargo: 'Estudante'},
 // ]
 // let users2 = [
-//     {nome: 'Leozin', idade: 21, cargo: 'Programador', genero: 'Masculino'},
-//     {nome: 'Nina', idade: 22, cargo: 'Designer', genero: 'Feminino'},
+//     {nome: 'Erick', idade: 21, cargo: 'Programador', genero: 'Masculino'},
+//     {nome: 'Pedro', idade: 22, cargo: 'Designer', genero: 'Feminino'},
 //     {nome: 'Victor', idade: 21, cargo: 'Programador', genero: 'Masculino'},
 // ]
 
 // let userr = {
-//     nome: 'Leozin', 
+//     nome: 'Erick', 
 //     idade: 21, 
 //     cargo: 'Estudante'
 // };
@@ -32,7 +32,7 @@
 // console.log(numbers2)
 
 // let pessoa = {
-//     nome: 'Gabi',
+//     nome: 'Joao',
 //     idade: 22
 // }
 
@@ -52,13 +52,13 @@
 //     console.log(data)
 // }
 
-// user({ nome: 'Leozin', email: 'LeozinReiDelas@gmail.com'})
+// user({ nome: 'Erick', email: 'LeozinReiDelas@gmail.com'})
 
 // function user(...nomes) {
 //     console.log(nomes)
 // }
 
-// user('Leozin', 'Gabi', 'Arthur', 'Emilly')
+// user('Leo', 'Erick', 'Arthur', 'Marcos')
 
 // function gerarNumeros(...numeros) {
 //     const num = Math.floor(Math.random() * numeros.length)
@@ -67,7 +67,7 @@
 
 // gerarNumeros(2,3,1,33,6,78,54,23)
 
-// let nomes = ['Leozin', 'Gabi', 'Arthur', 'Emilly']
+// let nomes = ['Leo', 'Erick', 'Arthur', 'Marcos']
 
 // nomes.map((item, index) => {
 //     console.log(item, index)
